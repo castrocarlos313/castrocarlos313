@@ -1,4 +1,4 @@
-👋Hola, gracias por vistiar mi github👀, si tienes alguna duda o sugerencia relacionada con algunos de mis proyectos no dudes en hacérmelo saber.
+👋Hola, gracias por visitar mi github👀, si tienes alguna duda o sugerencia relacionada con algunos de mis proyectos no dudes en hacérmelo saber.
 
 Proyectos:
 
